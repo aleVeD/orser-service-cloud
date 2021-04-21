@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bf08618a-ee73-45a7-a7cc-88928dad3df6" name="Default Changelist" comment="" />
+    <list default="true" id="bf08618a-ee73-45a7-a7cc-88928dad3df6" name="Default Changelist" comment="add the project" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -26,7 +26,12 @@
       <state>
         <projects_view>
           <tree_state>
-            <expand />
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="orser-service-cloud" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
             <select />
           </tree_state>
         </projects_view>
@@ -72,8 +77,16 @@
       <option name="presentableId" value="Default" />
       <updated>1619018615235</updated>
       <workItem from="1619018618519" duration="92000" />
-      <workItem from="1619019198582" duration="528000" />
+      <workItem from="1619019198582" duration="1078000" />
     </task>
+    <task id="LOCAL-00001" summary="add the project">
+      <created>1619021613084</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1619021613084</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -90,5 +103,9 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add the project" />
+    <option name="LAST_COMMIT_MESSAGE" value="add the project" />
   </component>
 </project>
